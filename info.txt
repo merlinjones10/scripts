@@ -1,0 +1,3 @@
+Set python to run scripts
+
+https://medium.com/@tonykyriakidis/executing-python-scripts-everywhere-on-your-system-linux-9c914611ec99
